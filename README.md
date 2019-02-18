@@ -1,6 +1,6 @@
 # FbCMD4j
 
-Facebook CLI client. For educational purposes only.
+Repositorio para Evidencia Final de Computacion en Java
 
 ## Instalación
 
@@ -12,8 +12,8 @@ TODO: Agregar instrucciones de uso
 
 ## Créditos
 
-TODO: Agregar autor(es)
+Manuel Alejandro Ipiña Balbantin 2736131
 
 ## Licencia
 
-TODO: Agregar Licencia
+MIT Licence
